@@ -1907,7 +1907,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Best:'
+  m_text: Score
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4eb6defc65b96d3459511bd5c31014cc, type: 2}
   m_sharedMaterial: {fileID: 6198120894626852269, guid: 4eb6defc65b96d3459511bd5c31014cc, type: 2}
@@ -3265,7 +3265,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Score
+  m_text: High Score
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4eb6defc65b96d3459511bd5c31014cc, type: 2}
   m_sharedMaterial: {fileID: 6198120894626852269, guid: 4eb6defc65b96d3459511bd5c31014cc, type: 2}
